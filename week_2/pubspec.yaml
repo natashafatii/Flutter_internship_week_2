@@ -1,0 +1,26 @@
+name: week_2
+description: A Flutter todo list app with persistent storage
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.5.3
+  # Add other dependencies as needed, like:
+  # provider: ^6.0.0  # If you plan to use state management
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  # assets:             # Uncomment if you add images or other files
+  #   - assets/
