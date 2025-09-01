@@ -19,21 +19,21 @@ It includes multiple screens such as **Home**, **Login**, **To-Do**, and **Count
 
 ## Folder Structure
 week_2_android/
-├── android/ # Android platform-specific code
-├── ios/ # iOS platform-specific code
-├── lib/ # Main application code
-│ ├── models/ # Data models
-│ │ └── task.model.dart # Task model class
-│ ├── screens/ # Application screens
-│ │ ├── home_screen.dart
-│ │ ├── to_do_screen.dart
-│ │ ├── counter_screen.dart
-│ │ └── login_screen.dart
-│ └── main.dart # Application entry point
-├── build.gradle.kts # Gradle build configuration
-├── settings.gradle.kts # Project settings
-├── pubspec.yaml # Flutter dependencies
-└── README.md # Project documentation
+├── android/                 # Android platform-specific code
+├── ios/                    # iOS platform-specific code
+├── lib/                    # Main application code
+│   ├── models/             # Data models
+│   │   └── task.model.dart # Task model class
+│   ├── screens/            # Application screens
+│   │   ├── home_screen.dart
+│   │   ├── to_do_screen.dart
+│   │   ├── counter_screen.dart
+│   │   └── login_screen.dart
+│   └── main.dart           # Application entry point
+├── build.gradle.kts        # Gradle build configuration
+├── settings.gradle.kts     # Project settings
+├── pubspec.yaml            # Flutter dependencies
+└── README.md               # Project documentation
 ## Installation
   - **Clone the repository**
    git clone https://github.com/natashafatii/Flutter_internship_week_2.git
