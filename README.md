@@ -33,7 +33,7 @@ week_2_android/
 ├── build.gradle.kts # Gradle build configuration
 ├── settings.gradle.kts # Project settings
 ├── pubspec.yaml # Flutter dependencies
-└── README.md # Project documentation---## Installation
+└── README.md # Project documentation
 ## Installation
   - **Clone the repository**
    git clone https://github.com/natashafatii/Flutter_internship_week_2.git
