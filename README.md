@@ -18,6 +18,8 @@ It includes multiple screens such as **Home**, **Login**, **To-Do**, and **Count
 ---
 
 ## Folder Structure
+
+```
 week_2_android/
 ├── android/                 # Android platform-specific code
 ├── ios/                    # iOS platform-specific code
@@ -34,6 +36,7 @@ week_2_android/
 ├── settings.gradle.kts     # Project settings
 ├── pubspec.yaml            # Flutter dependencies
 └── README.md               # Project documentation
+```
 ## Installation
   - **Clone the repository**
    git clone https://github.com/natashafatii/Flutter_internship_week_2.git
